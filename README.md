@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Laravel php**
 
 - 👯 I’m looking to collaborate on **Big company**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full-Stack Web Developer | React.js, Laravel, TailwindCSS, PHP, Python I'm a passionate full-stack web developer with experience in building interactive web applications using modern technologies. My stack includes React.js for front-end development, Laravel for back-end, and both SQL (SGBDR) and NoSQL databases for handling data. I’m proficient in HTML, CSS, JavaScript, and I enjoy working with frameworks like Bootstrap and TailwindCSS to create responsive and elegant UIs. I’m constantly exploring new tools and techniques to improve my development workflow. My goal is to build scalable, maintainable, and efficient web applications, and I love solving challenging problems along the way.**
 
-- 📫 How to reach me **redarachidy90@gmail.com**
+- 📫 How to reach me **mouhamedredarachidy@gmail.com**
 
 - 📄 Know about my experiences [I'm a full-stack web developer with hands-on experience in building interactive web applications. I specialize in creating e-commerce websites, car rental management applications, and employee management systems. My expertise includes React.js for front-end development and Laravel for back-end development, with a solid foundation in both SQL (SGBDR) and NoSQL databases. I also have a strong command of HTML, CSS, JavaScript, and frameworks like Bootstrap and TailwindCSS to craft responsive and dynamic user interfaces. Additionally, I work with Python for back-end logic and automation tasks. My development philosophy focuses on scalability, performance, and maintainability, constantly exploring new technologies and best practices to build top-tier applications.](I'm a full-stack web developer with hands-on experience in building interactive web applications. I specialize in creating e-commerce websites, car rental management applications, and employee management systems. My expertise includes React.js for front-end development and Laravel for back-end development, with a solid foundation in both SQL (SGBDR) and NoSQL databases. I also have a strong command of HTML, CSS, JavaScript, and frameworks like Bootstrap and TailwindCSS to craft responsive and dynamic user interfaces. Additionally, I work with Python for back-end logic and automation tasks. My development philosophy focuses on scalability, performance, and maintainability, constantly exploring new technologies and best practices to build top-tier applications.)
 
