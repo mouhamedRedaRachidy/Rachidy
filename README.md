@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mouhamed Reda Rachidy</h1>
+<h1 align="center">Hi 👋, I'm Mouhamed Reda Rachidy !</h1>
 <h3 align="center">A passionate FrontEnd | BackEnd developer from Moroco</h3>
 
 - 🔭 I’m currently working on **freelance**
