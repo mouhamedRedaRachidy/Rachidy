@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **Laravel php**
+- 🌱 I’m currently learning ** C **
 
 - 👯 I’m looking to collaborate on **Big company**
 
